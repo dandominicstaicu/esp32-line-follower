@@ -12,13 +12,13 @@ This project is a line-following robot, developed using an ESP32 microcontroller
 ## Components
 
 ### Hardware
-1. **ESP32** - Microcontroller used to process sensor data and control the motors.
-2. **Pololu DRV8835 Motor Driver** - Dual motor driver for controlling two motors independently.
-3. **Pololu QTRX-MD-13RC Reflectance Sensor Array** - High-precision sensor array for line detection.
-4. **Pololu DC Motors** - Pololu 10:1 Micro Metal Gearmotor HP 6V.
+1. **[ESP32](https://www.optimusdigital.ro/en/esp32-boards/12933-plusivo-esp32-and-ble-compatible-wireless-development-board.html?search_query=esp32&results=38)** - Microcontroller used to process sensor data and control the motors.
+2. **[Pololu DRV8835 Motor Driver](https://www.pololu.com/product/2135)** - Dual motor driver for controlling two motors independently.
+3. **[Pololu QTRX-MD-13RC Reflectance Sensor Array](https://www.pololu.com/product/4353)** - High-precision sensor array for line detection.
+4. **[Pololu DC Motors](https://www.pololu.com/product/999)** - Pololu 10:1 Micro Metal Gearmotor HP 6V.
 5. **Chassis and Mounts** - 3D-printed parts (see 3D Model section) for housing the sensors, motors, and ESP32.
-6. **Battery** - Lipo Gens Ace Acumulator - G-Tech Soaring - 450mAh - 7.4V - 30C - 2S1P with JST-SYP
-7. **Miscellaneous** - Jumper wires, connectors, screws, and other hardware for assembly.
+6. **[Battery](https://hpi-racing.ro/li-po-2s-74v/acumulator-lipo-gens-ace-g-tech-soaring-450mah-74v-30c-2s1p-cu-jst-syp.html)** - Lipo Gens Ace Acumulator - G-Tech Soaring - 450mAh - 7.4V - 30C - 2S1P with JST-SYP
+7. **Miscellaneous** - Jumper wires, connectors, screws, PCB and other hardware for assembly.
 
 ### Software Libraries
 - **DRV8835MotorShield** - For motor control.
