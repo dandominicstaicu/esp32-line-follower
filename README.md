@@ -17,7 +17,7 @@ This project is a line-following robot, developed using an ESP32 microcontroller
 3. **Pololu QTRX-MD-13RC Reflectance Sensor Array** - High-precision sensor array for line detection.
 4. **Pololu DC Motors** - Pololu 10:1 Micro Metal Gearmotor HP 6V.
 5. **Chassis and Mounts** - 3D-printed parts (see 3D Model section) for housing the sensors, motors, and ESP32.
-6. **Battery** - Suitable battery pack to power the ESP32 and motors.
+6. **Battery** - Lipo Gens Ace Acumulator - G-Tech Soaring - 450mAh - 7.4V - 30C - 2S1P with JST-SYP
 7. **Miscellaneous** - Jumper wires, connectors, screws, and other hardware for assembly.
 
 ### Software Libraries
@@ -75,7 +75,7 @@ The `WebInterface` class hosts a page for real-time adjustments to PID values an
 | 3D Printed Chassis & Mounts    | Various  | Holds sensors, ESP32, and motors in place |
 | Jumper Wires, Connectors, Screws | Various | Assembly hardware |
 
-## 3D Model Files
+## 3D Model Files (TBD)
 
 STL files for the 3D-printed chassis and sensor mounts are provided in the `3d-models` folder (TBD).
 
